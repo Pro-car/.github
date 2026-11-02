@@ -34,17 +34,27 @@
 
 ---
 
+## 📱 Social Media & Communities
+
+* [Telegram Channel](https://t.me/PROCAR_OFFICIAL)
+* [Instagram](https://www.instagram.com/procar.kr?igsh=MTZwdDBtd2FyMXYzNQ%3D%3D&utm_source=qr)
+* [YouTube Channel](https://youtube.com/@procar_kr?si=VhHBCpst4AfpUr55)
+* [TikTok](https://www.tiktok.com/@procarkorea?_t=8XzrTcJopdZ&_r=1)
+* [Facebook](https://www.facebook.com/share/18p5B5gjBt/?mibextid=wwXIfr)
+
+---
+
 ## 📍 Our Contacts
 
-* **Company:** PROCAR: Korean Export Company
-* **Address:** 313 Central-ro, Yeonsu-gu, Incheon (Songdo Sea Walk Interras Halla) Unit 518, Building C (Zip: 22006)
-* **E-mail:** procarkorea@gmail.com
-* **Phone number:** +82-10-3355-2215
+- **Company:** PROCAR: Korean Export Company
+- **Address:** 313 Central-ro, Yeonsu-gu, Incheon (Songdo Sea Walk Interras Halla) Unit 518, Building C (Zip: 22006)
+- **E-mail:** procarkorea@gmail.com
+- **Phone number:** +82-10-3355-2215
 
 ### 💳 Bank Details
-* **Name of bank:** KOOKMIN BANK
-* **Account number:** 900968-11-032305
-* **Bank address:** 184, Biryu-daero, Yeonsu-gu, Incheon
+- **Name of bank:** KOOKMIN BANK
+- **Account number:** 900968-11-032305
+- **Bank address:** 184, Biryu-daero, Yeonsu-gu, Incheon
 
 ---
 
