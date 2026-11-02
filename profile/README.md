@@ -37,7 +37,7 @@ PROCAR is built using a decoupled microservices and modular architecture distrib
 
 * **Backend:** TypeScript, Node.js, NestJS, Fastify, BullMQ, Playwright
 * **Frontend:** Next.js, React, TypeScript, Material-UI (MUI)
-* **Databases & Storage:** PostgreSQL, Redis, ScyllaDB, DuckDB, Prisma ORM, Cloudflare R2
+* **Databases & Storage:** PostgreSQL, Redis, Prisma ORM, Cloudflare R2
 * **DevOps & Tooling:** Docker, Docker Compose, GitHub Actions CI/CD, Nginx, Certbot, Tailscale
 
 ---
