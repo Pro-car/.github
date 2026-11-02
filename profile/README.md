@@ -1,12 +1,16 @@
 <div align="center">
   <img src="https://procar.kr/images/logo.svg" alt="PROCAR Logo" width="120" />
   <h1>PROCAR — Korean Export & Auction Platform</h1>
-  <p><b>Advanced multi-source aggregation, normalization, and analytics platform for South Korean vehicle auctions.</b></p>
+  <p>
+    <b>Export of used cars from South Korea to any country in the world</b>
+  </p>
+  <p>
+    PROCAR will help you to buy a car at car auctions from S. Korea! We provide a full range of services, warranties and draw up all the documentation on a turnkey basis.
+  </p>
   
   <p>
     <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
-    <img src="https://img.shields.io/badge/Architecture-Microservices-blue?style=flat-square" alt="Architecture">
-    <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20NestJS%20%7C%20Next.js-informational?style=flat-square" alt="Tech Stack">
+    <img src="https://img.shields.io/badge/Service-Car%20Export%20%26%20Auctions-blue?style=flat-square" alt="Service">
   </p>
 </div>
 
@@ -14,34 +18,36 @@
 
 ## 🚗 About PROCAR
 
-**PROCAR** is a high-performance, automated platform designed to aggregate, translate, and process vehicle inventories from major South Korean automotive auction platforms (including Hyundai Glovis, AutoHub, KCar, Lotte Auto Auction, SKCar, Encar, and HappyCar). 
-
-The system handles real-time data ingestion, background job processing, multi-source normalization, and a lightning-fast client interface for seamless vehicle selection and export tracking.
+**PROCAR** is a professional platform designed to aggregate, process, and handle vehicle exports from major South Korean automotive auction platforms. We provide end-to-end support, transparent calculations, and secure international delivery.
 
 ---
 
-## 🏗️ Core Ecosystem & Repositories
+## 🔄 How we are working?
 
-PROCAR is built using a decoupled microservices and modular architecture distributed across our organization repositories:
-
-* **[`pro-car-api`](https://github.com/Pro-car/pro-car-api)** — Core backend API service built with NestJS, handling business logic, authentication, and client data delivery.
-* **[`pro-car-parser`](https://github.com/Pro-car/pro-car-parser)** — High-throughput web scraping engine utilizing Playwright, Axios, Redis, and BullMQ with advanced proxy rotation.
-* **[`pro-car-web-client`](https://github.com/Pro-car/pro-car-web-client)** — Modern frontend user application built with Next.js, React, and custom MUI UI components.
-* **[`pro-car-admin`](https://github.com/Pro-car/pro-car-admin)** — Internal dashboard for inventory management, auction monitoring, and system control.
-* **[`pro-car-db`](https://github.com/Pro-car/pro-car-db)** — Centralized database schemas, Prisma ORM migrations, and shared data models.
-* **[`pro-car-infrastructure`](https://github.com/Pro-car/pro-car-infrastructure)** — DevOps configurations, Docker Compose setups, Nginx reverse proxies, SSL automation, and server monitoring scripts.
+1. **STEP 1** — Contact us and we will take your auto pickup request.
+2. **STEP 2** — Search for cars on all resources and auctions in South Korea and calculate options.
+3. **STEP 3** — Agreeing the terms and conditions and signing the contract.
+4. **STEP 4** — A deposit of $1000 per vehicle is required.
+5. **STEP 5** — Live car inspection by an expert.
+6. **STEP 6** — Paying for the car value, expenses and services in Korea. Car buyback.
+7. **STEP 7** — Shipping the vehicle to your country.
 
 ---
 
-## ⚡ Tech Stack
+## 📍 Our Contacts
 
-* **Backend:** TypeScript, Node.js, NestJS, Fastify, BullMQ, Playwright
-* **Frontend:** Next.js, React, TypeScript, Material-UI (MUI)
-* **Databases & Storage:** PostgreSQL, Redis, Prisma ORM, Cloudflare R2
-* **DevOps & Tooling:** Docker, Docker Compose, GitHub Actions CI/CD, Nginx, Certbot, Tailscale
+* **Company:** PROCAR: Korean Export Company
+* **Address:** 313 Central-ro, Yeonsu-gu, Incheon (Songdo Sea Walk Interras Halla) Unit 518, Building C (Zip: 22006)
+* **E-mail:** procarkorea@gmail.com
+* **Phone number:** +82-10-3355-2215
+
+### 💳 Bank Details
+* **Name of bank:** KOOKMIN BANK
+* **Account number:** 900968-11-032305
+* **Bank address:** 184, Biryu-daero, Yeonsu-gu, Incheon
 
 ---
 
 <div align="center">
-  <sub>PROCAR Organization • Built with precision for high-load vehicle auction processing.</sub>
+  <sub>PROCAR Organization • Secure South Korean Vehicle Export.</sub>
 </div>
