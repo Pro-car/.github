@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/.github/main/profile/assets/logo.svg" alt="PROCAR Logo" width="120" />
+  <img src="https://procar.kr/images/logo.svg" alt="PROCAR Logo" width="120" />
   <h1>PROCAR — Korean Export & Auction Platform</h1>
   <p><b>Advanced multi-source aggregation, normalization, and analytics platform for South Korean vehicle auctions.</b></p>
   
